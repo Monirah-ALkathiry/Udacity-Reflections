@@ -4,3 +4,7 @@ when I work in a huge system and has many phasis
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? 
 To pull real changes.
 //see Author
+Describe the differences between forks, clones, and branches. When would you use one instead of another? 
+Branch : In one single Repository.
+Clone: Taking an exsiting Repository and making one just like it.
+Forks :Like clone but from 1 GitHub to 2 GitHub, only used within the context of GitHub (Takign an exsiting GitHub)
